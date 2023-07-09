@@ -1,0 +1,478 @@
+{
+
+    "appName" : "आरटीओ परीक्षा",
+    "aminaboutique": "Aminaboutique",
+    "sign up": "साइन अप करें",
+    "have an account": "खाता होना?",
+
+    "login" : "लॉग इन करें",
+    "resend" : "पुन: भेजें",
+    "verification" : "सत्यापन",
+    "enter verification code we've sent in" : "सत्यापन कोड दर्ज करें जिसे हमने भेजा है",
+    "reset Password" : "पासवर्ड रीसेट",
+    "change Address": "पता बदल जाना",
+    "forget Password": "पासवर्ड भूल गया",
+
+    "contact Us" : "संपर्क करें",
+    "get in Touch" : "संपर्क में रहो",
+    "forgot password" : "पासवर्ड भूल गए?",
+    "change language" : "भाषा बदलें",
+
+    "search" : "Buscar",
+    "dark mode" : "डार्क मोड",
+    "change Password" : "पासवर्ड बदलें",
+    "logging out" : "लॉग आउट कर रहा हूं",
+    "are you sure" : "क्या आपको यकीन है?",
+    "contact us" : "हमसे संपर्क करें",
+    "no" : "नहीं",
+
+
+
+    "create video category" : "वीडियो श्रेणी बनाएं",
+    "yes" :  "हां",
+    "share app" : "एप्लिकेशन शेयर करें",
+    "rate app" :  "एप्लिकेशन का मूल्यांकन करें",
+    "disclaimer" : "सूचना",
+    "privacy policy" : "गोपनीयता नीति",
+    "terms & conditions" : "नियम एवं शर्तें",
+    "other apps" : "अन्य एप्लिकेशन",
+
+
+    "my Account" : "मेरा खाता",
+    "do you want to exit the App" : "क्या आप ऐप से बाहर निकलना चाहते हैं",
+    "Create Video" : "वीडियो बनाएं",
+    "Video List" : "वीडियो सूची",
+    "Video Title" : "वीडियो शीषर्क",
+    "Video Discription" : "वीडियो डिस्क्रिप्शन",
+    "Video Timming" : "वीडियो समय",
+    "home" : "घर",
+    "shop" : "दुकान",
+    "courses" : "पाठ्यक्रम",
+    "video" : "वीडियो",
+    "profile" : "प्रोफ़ाइल",
+
+    "video screen" : "वीडियो स्क्रीन",
+    "course screen" : "कोर्स स्क्रीन",
+
+    "Q1" : "वापसी पर स्वागत है!",
+    "A1" : "अपने उस डेटा के साथ लॉगिन करें जिसमें आपने अपने पंजीकरण के दौरान इंटरेस्ट किया था।",
+
+    "Q2" : "खाता नहीं है?",
+    "A2" : "साइन अप करें",
+
+    "Q3" : "3. आप किसी वाहन को ओवरटेक कर सकते हैं",
+    "A3" : "उ. उस वाहन की दाहिनी ओर से",
+
+    "Q4" : "मैं से सहमत हूं",
+    "A4" : "सेवा की शर्तें",
+
+    "Q5" : "& गोपनीयता नीति।",
+    "A5" : "क्या आपका अकाउंट है?",
+
+    "Q6" : "लॉग इन करें",
+    "A6" : "पासवर्ड की दोबारा प्राप्ति",
+
+
+    "Q7" : "अपना पासवर्ड पुनर्प्राप्त करने के लिए अपना मोबाइल नंबर दर्ज करें।",
+    "A7" : "सत्यापन कोड",
+
+    "Q8" : "हमने कोड सत्यापन भेज दिया है",
+    "A8" : "के बाद कोड फिर से भेजें",
+
+    "Q9" : "पुष्टि करना",
+    "A9" : "पुन: भेजें",
+
+    "Q10" : "नाम",
+    "A10" : "जन्म की तारीख",
+
+
+
+
+
+    "Q11" : "फ़ोन नंबर",
+    "A11" : "लिंग",
+
+    "Q12" : "लिंग",
+    "A12" : "पासवर्ड",
+
+    "Q13" : "नर",
+    "A13" : "महिला",
+
+
+
+    "Q14" : "पता (मकान संख्या/गली/क्षेत्र)",
+    "A14" : "शहर",
+
+    "Q15" : "राज्य",
+    "A15" : "देश चयन",
+
+    "Q16" : "पिन कोड",
+    "A16" : "तुम्हारा  नाम",
+
+
+
+
+
+    "Q17" : "17. हार्न का प्रयोग करना वर्जित है",
+    "A17" : "उ. अस्पताल, अदालत के पास",
+
+    "Q18" : "18. रियर व्यूह शीशा प्रयोग होता है",
+    "A18" : "उ. पीछे से आने वाले यातायात को देखने के लिए",
+
+    "Q19" : "19. गतिमय वाहनों में चढना या उनसे उतरना",
+    "A19" : "उ. सभी प्रकार के वाहनों में निषेध है",
+
+    "Q20" : "20. वाहन खडा करना स्वीर्कत है",
+    "A20" : "उ. जहां वाहन खडा करना निषेध नहीं हो वहां",
+
+    "Q21" : "21. ओवरटेकिंग करना वर्जित है",
+    "A21" : "उ. यदि आगे का रास्ता साफ दिखायी नही दे रहा है",
+
+
+
+
+    "Q22" : "22. पैदल यात्रियों को नुकीले मोड़ों पर व ठहरे वाहन के नजदीक से रास्ता पार नहीं करना चाहिये, क्यों?",
+    "A22" : "उ. दूर से आने वाले वाहनों के चालक सड़क पार करने वाले व्याक्ति को नहीं देख सकते है",
+
+    "Q23" : "23. जिस रास्ते पर आप जा रहेहैं उसकी बायें ओर मुडने के लिए आपको अवश्य ही",
+    "A23" : "उ. बायीं ओर मुडने का संकेत देते हुये, रास्ते के बायें ओर आते हुए बार्ड ओर मुड़ना चाहिए",
+
+    "Q24" : "24. आप रात्रि के समय  हैड लार्ईट हाई बीम पर ऱखकर वाहन चला रहे है और विपरीत दिशा से एक अन्य वाहन आ जाए तो आपको",
+    "A24" : "उ. हेड लाईट को मध्यम कर देना चाहिए जब तक की सामने वाला वाहन निकल न जाये",
+
+
+
+
+    "Q25" : "25. वाहन चालक अपनी दायें हथेली झुकाकर बाहर निकालता है और अपनी भुजा को ऊपर और नीचे कई बार धुमाता है तो आप समझेंगे",
+    "A25" : "उ. वह वाहन की गति मंद कर रहा है",
+
+    "Q26" : "26. जब यातायात का संकेत 'स्कूल' को चिन्हित करता है तब आपको",
+    "A26" : "उ. वाहन धीरे कर के ध्यान से आगे बढाना चाहिए",
+
+    "Q27" : "27. यू टर्न लेते हुए संकेत करना चाहिए",
+    "A27" : "उ. दायें मुड़ने का संकेत",
+
+
+
+    "Q28" : "28. किसी वाहनको ओवरटेक करने से पूर्व यह सुनिश्चित किया जाना चाहिए कि",
+    "A28" : "उ. आगे का रास्ता साफ दिख रहा है व ओवरटेक करना सुरक्षित है",
+
+    "Q29" : "29. वह स्थान जहां वाहन खड़ा करना वर्जित है",
+    "A29" : "उ. फूचपाथ पर",
+
+    "Q30" : "30. है़ड ब्रेक का प्रयोग किया जाता है",
+    "A30" : "उ. वाहन को कहीं खडा करने के लिए",
+
+
+
+
+    "Q31" : "31. किसी दुपहिया वाहन पर दो से ज्यादा व्यक्ति",
+    "A31" : "उ. यह कानून को भंग करना है",
+
+    "Q32" : "32. आप किसी अस्पताल के निकट किसी वाहन को ओवरटेक करना चाहते है आपको",
+    "A32" : "उ. हार्न नही बजाना चाहिए",
+
+    "Q33" : "33. किसी अपंजीक्रत वाहन को सार्वजनिक स्थान पर चलाना",
+    "A33" : "उ. अवैध है",
+
+
+
+
+
+
+
+
+
+
+
+
+    "Q34" : "34. यदि किसी पशु को ले जाने वाले व्यक्ति को यह आभास होता है की पशु नियंत्रष से बाहर हो रहा है और वह वाहन का रोकने का अनुरोध करता है तो चालक",
+    "A34" : "उ. वाहन को रोकेगा",
+
+    "Q35" : "35. जब स्कूल बसे छात्रो का उतारने या चढाने के लिए खड़ी हो तो",
+    "A35" : "उ. धीमी गति तथा सावधानी से आगे बढे क्योकि वहा छात्रो व्दारा अचानक रास्ता पार करने की संभावना है",
+
+    "Q36" : "36. जब एक मोटर वाहन किसी दू्र्घटना मे लिप्त हो तो वाहन चालक को",
+    "A36" : "उ. 24 घप्टो के भीतर नजदीकी पुलिस स्टेशन मे सूचना दर्ज करानी चाहिए",
+
+    "Q37" : "37. यदि कीसी दूर्घटना की वजन से किसी थर्ड पार्टी की किसी सम्पत्ति का नुक्सान होता है तो, वाहन चालक",
+    "A37" : "उ. 24 घप्टे के भीतर नजदीकी पुलिस स्टेशन मे सूचना दर्ज करानी चाहिए",
+
+    "Q38" : "38. यदि हमारे पीछे से आने वाला वाहन हमारे वाहन को ओवरटेक करना शूरू करता है तो",
+    "A38" : "उ. हमे दूसरे वाहन का ओवरटेक नही करना चाहिए",
+
+    "Q39" : "39. जब हमारा वाहन ओवरटेक किया जा रहा हो तो",
+    "A39" : "उ. हमें अपने वाहन की गति नही बढाना चाहिए",
+
+
+
+    "Q40" : "40. निम्न दशाओ मे वाहन खड़ा करना मना है।",
+    "A40" : "उ. अस्पताल के प्रवेश व्दारा पर",
+
+    "Q41" : "41. सार्वजनिक स्थानो पर वाहन खडां छोड़ देने से दुसरो को व अन्य यात्रियों को असुविधा होने पर ",
+    "A41" : "उ. ड्राइविंग लाइसेन्स को निलम्बित या रद किया जा सकता है",
+
+    "Q42" : "42. जब आप किसी ऐसे चौराहे की ओर बढ रहे हों जहा पीली सिग्नल बत्ती चमक रही हो तो आपको चाहिए",
+    "A42" : "उ. वाहन की गति धीमी करके तभी आगे बढे जब यह  निश्चित हो जाे की ऐसा करना सुरक्षित है",
+
+    "Q43" : "43. जहा पर रास्ता लगातार पीली रेखा से चिन्हित किया गा हो वाहनो को ",
+    "A43" : "उ. पीली रेखा को न तो छूना चाहिये न ही पार करना चाहिए",
+
+    "Q44" : "44. जब कोई वाहन शाखा पथ से मुख्य पथ में प्रवेश कर रहा हो तो वाहन चालक को इनको प्राथमिकता देनी चाहिए",
+    "A44" : "उ. सभी वाहनो को जो मुख्य मार्ग पर जा रहे हो",
+
+    "Q45" : "45.आप किसी वाहन को बायी ओर से ओवरटेक कर सकते हैं",
+    "A45" : "उ. यदि उस वाहन का चालक यह संकेत दे कि वह दायें मुडना चाहता है और वह रास्ते के मध्य की ओर बढे",
+
+
+
+
+
+
+
+
+    "Q46" : "46. यदि एक चौराहे की पीली यातायात सिग्नल बत्ति जलती है तो वहां पहुंंचने वाले वाहन चालक को अवश्य ही",
+    "A46" : "उ. रूकने के लिए गति धीमी कर देनी चाहिए",
+
+    "Q47" : "47. अपने आप से आगे चल रहे वाहन से रखी जान वाली न्यूनतम दूरी",
+    "A47" : "उ. गति के अनुसार सुरक्षित दूरी",
+
+    "Q48" : "48. किसी निजी वाहन के अनुमत यात्री ",
+    "A48" : "उ. पजीयन प्रमाणपत्र में",
+
+    "Q49" : "49. ओवरटेकिंग वर्जित है जब",
+    "A49" : "उ. वाहन खड़ी चढाई पर हो",
+
+    "Q50" : "50. यदि मार्ग सफेद टूटी हुई रेख से चिन्हित किया गया हो तो आपको",
+    "A50" : "उ. यदि आवश्यकता हो तो पथ परिवर्तित किया जा सका है।",
+
+    "Q51" : "51. झपकने वाली लाल  यातायात बत्ती का मतलब होता है",
+    "A51" : "उ. वाहन रोककर तब आगे बढे जब ऐसा करना सुरक्षित हो",
+
+
+
+    "Q52" : "52. सुरक्षात्मक चालन क्या है",
+    "A52" : "उ. सावधानीपूर्वक इस पूर्वानुमान के साथ वाहन चलाना कि अन्य वाहन चालको व अन्य स़ड़क उपयोगकर्ताओ व्दार यातायात के नियम और चिन्हो का उल्लंघन किया जा सकता है",
+
+    "Q53" : "53. स्रटाॅप लाईन का क्या अर्थ होता है",
+    "A53" : "उ. रोड़ जंक्शन या पदयात्रि पारपथ के पहले स्थित 5 से.मी. चौड़ी सफेद अथवा पीले रंग की रेखा",
+
+    "Q54" : "54. यदि वाहन दुर्घटना मे कोई व्यक्ति घायल हो जाता है तो",
+    "A54" : "उ. घायल व्यक्ति की चिकित्सा के लिए सभी जंरूरी कदम उठाये तथा नजदीकी पूलिस स्टेशन को 24 घंटे के अंदर सूचित करें",
+
+    "Q55" : "55. जब कोई वाहन बिना सूरक्षा प्रहरी वाले रेलवे क्रोसिंग पर पहूँचता है तो, डार्ईवर",
+    "A55" : "उ. वाहन सड़क के बायीं तरफ रोके तथा बाहर उतर कर रेलवे ट्रैक के दोनों तरफ जाँच ले  की कोई ट्रेन या ट्रोली तो नहीं आ रही",
+
+    "Q56" : "56. शराब का सेवन कर के गाड़ी चलाना ",
+    "A56" : "उ. सभी वाहनो मे माना है",
+
+    "Q57" : "57. मोबाईल फोन का प्रयोग वर्जित है",
+    "A57" : "- लाल बत्ति पर\n - जब वाहन 20 KM/Hr. की गति पर चलाया जा रहा हो\n उ. उपरोक्त में से कोई नहींं",
+
+
+
+    "Q58" : "58. मोबाईल फोन से मेसेज भेजना अनुमति है",
+    "A58" : "- दूसरे वाहन को ओवरटेक करते समय\n - जब वाहन 20 कि.मि. प्रति घंटे की गति पर चलाया जा रहा हो\n उ. उपरोक्त में से कोई नहींं",
+
+    "Q59" : "59. सार्वजनिक स्थानो पर गाड़ी चलाते समय डाईवर को निम्न दस्तावेज साथ रखने चाहिए",
+    "A59" : "उ. रजिस्टँेशन सर्चिफिकेट, इन्सुरेंस सर्टिफिकेट, टैक्स टोकन, डाइविग लाइसेंस",
+
+    "Q60" : "60. सभी मोटर वाहन निम्न बिमा के अंतर्गत होने चाहिए",
+    "A60" : "उ. थर्ड पार्टी बिमा",
+
+    "Q61" : "61. आप मोटर साईकल प्रशिक्षु लार्ईसेस घारक हैं",
+    "A61" : "उ. आप मोटर सार्ईकल ड्राइविंग लाइसेंस धारक प्रशिक्षक के अलावा किसी ओर व्यक्ति को अपने साथ मोटर सार्किल पर नहीं बिठा सकते",
+
+    "Q62" : "62. निम्न परिस्थितियों मे ओवेर्टेकिंग निषेध है",
+    "A62" : "उ. संकरे पुल पर",
+
+    "Q63" : "63. निम्न परिस्थितियों मे वाहन पार्क करना मना है",
+    "A63" : "उ. यातायात बत्ति के पास",
+
+
+    "Q64" : "64. एकतरफा जाने वाली सड़क के रूप मे नामित सड़क पर",
+    "A64" : "उ. रिवर्स गियर मे वाहन नही चलाना चाहिए",
+
+    "Q65" : "65. आप एक परिवहन वाहन मे कैसे भेद कर सकते हैं?",
+    "A65" : "उ. वाहन की नबर प्लेट को देख कर।",
+
+    "Q66" : "66. प्रशिक्षु लाइसेस की अवधि",
+    "A66" : "उ. 6 महीने",
+
+    "Q67" : "67. पगडडी बिना की स़डक पर, पदयात्रियो को",
+    "A67" : "उ. स़़डक के दाई ओर चलना चाहिए",
+
+    "Q68" : "68. जब वाहन मे इधन भरा जाता है तब",
+    "A68" : "उ. धूम्रपान नहीं करेंगे",
+
+    "Q69" : "69. मोबाइल फोन का इस्तेमाल नहीं करना चाहिए",
+    "A69" : "उ. वाहन चलाते समय",
+
+    "Q70" : "70. निजी वाहन के रिकार्ड है",
+    "A70" : "उ. पजीकरण प्रमा",
+
+    "Q71" : "71. पी.यु.सी.सी. प्रदुषण नियत्रण प्रमाण पत्र की अवधि",
+    "A71" : "उ. 6 महीने",
+
+    "Q72" : "72. बिना गियर की मोर सार्ईकल चलाने का लाइसेस प्राप्त करने की न्यूनतम उम्र",
+    "A72" : "उ. 16 वर्ष",
+
+    "Q73" : "73. बाई ओर मुड़ते समय, दुपहिया चालक को",
+    "A73" : "उ. बाई ओर मु़ड़ने का संकेत अपने दाहिने हाथ से बताना चाहिए",
+
+    "Q74" : "74. वाहन के चालक को यू-टर्न नहीं लेना चाहिए",
+    "A74" : "उ. व्यस्त सड़क पे",
+
+    "Q75" : "75. नई कार का एक बार का कर",
+    "A75" : "उ. 15 वर्ष",
+
+    "Q76" : "76. मालगा़डी के केबिन मे ल जा सकने वाले व्यक्तियो की सख्या",
+    "A76" : "उ. पजीकरण प्रमाणपत्र मे दर्ज हो उसने व्यक्ति",
+
+    "Q77" : "77. जब आपका वाहन ओवरटेक किया जा रहा हो तब, आप को",
+    "A77" : "उ. दुसरे वाहन को ओवरटेक करने मे बाधा न ड़ाले",
+
+    "Q78" : "78. परिवहन वाहनो के लिए डा्इविंग लाइसेंस प्राप्त करने की न्यूनतम उम्र",
+    "A78" : "उ. 20 वर्ष",
+
+    "Q79" : "79. तेज गति से जाना",
+    "A79" : "उ. उपराध है जिसमे ड्राइसेस निलबित या रद्द हो सकता है",
+
+    "Q80" : "80. जब अंधा व्यक्ति सफेद लकडी पकडे सडंक पार कर रहा हो तब",
+    "A80" : "उ. वाहन चालक सफेद लकडी को वाहन रोकने का याताया संकेत मानेगा",
+
+    "Q81" : "81. सामन के वाहन चालक ने ओवरटेक करने के लिए सकेत नही दिया है",
+    "A81" : "उ. हम ओवरटेक नही करना चाहिए",
+
+    "Q82" : "82. निम्न जगह पर वाहन खड़ा करना मना है",
+    "A82" : "उ. आग बक्षाने वाले नल को रोकते हुए",
+
+    "Q83" : "83. मोटर साईकिल पर पीछे की सीट पर सवार ले जाने के लिए",
+    "A83" : "उ. वाहन पाव रखने का स्टैड, हाथ पकडने की जगह और साडी गार्ड के साथ उपलब्ध कराया जाना चाहिए",
+
+    "Q84" : "84. Smoking while riving public service vehicle",
+    "A84" : "उ. Can attract suspension of driving licence",
+
+    "Q85" : "85. Abandoning a transport vehicle as a mark of protest or agitation or any kind of strike, in a public place or in any other place causing obstruction or inconvenience to the public or passengers or other users of such places",
+    "A85" : "उ. The driving licence is liable to be suspended or cancelled",
+
+    "Q86" : "86. Carrying overload in goods carriages",
+    "A86" : "उ. Can attract suspension or cancellation of driving licence",
+
+    "Q87" : "87. The driver of a tai refusing the offer for joureny for the reason that the distance is short",
+    "A87" : "उ. Can attract suspension/cancellation of driving licence",
+
+    "Q88" : "88. When you reach an intersection where there is no signal light or police man, you will",
+    "A88" : "उ. Give way to the traffic approaching the intersection on your right side and proceed after giving necessary signals",
+
+    "Q89" : "89. While you are driving on gradient roads, you should",
+    "A89" : "उ. Give percedence to the vehicles going up the hill",
+
+    "Q90" : "90. The driver of a tractor shall not carry",
+    "A90" : "उ. Any person other than the driver",
+
+    "Q91" : "91. What is 'Tail-gating'?",
+    "A91" : "उ. Driving too close behin a vehicle in a dangerous manner.",
+
+    "Q92" : "92. A vehicle can be seized by authorised officers, if?",
+    "A92" : "उ. The vehicle is not convered by a valid registration or permit.",
+
+
+    "Q93" : "93. Type of horn permitted",
+    "A93" : "उ. Electric horn",
+
+    "Q94" : "94. Road on which driving in reverse gear is prohibited",
+    "A94" : "उ. One-way road",
+
+    "Q95" : "95. if drunken driving is detected, the driver is liable to be punished with",
+    "A95" : "उ. imprisonment which may etent to 6 months or Rs.2000/- as fine or both",
+
+    "Q96" : "96. Maximum permitted speed of a motor car on national high way in the state.",
+    "A96" : "उ. 70 km/hour",
+
+    "Q97" : "97. Before starting the engine of a vehicle",
+    "A97" : "उ. Check radiator water level and engine oil level",
+
+    "Q98" : "98. Maimum permissible speed of a motor cycle",
+    "A98" : "उ. 50 km/hour",
+
+    "Q99" : "99. The only vehicle which is ermitted to be driven at a speed exceeding 60 km/hr",
+    "A99" : "उ. Motor Car",
+
+    "Q100" : "100. Maximum permissibl speed of a motor car near educational institution",
+    "A100" : "उ. 25 km/hour",
+
+
+
+
+    "search-description" :  "Aún no has buscado ningún artículo.\n Pruébelo ahora, ¡le ayudaremos!",
+    "try again" : "¡Intentar otra vez!",
+    "categories" : "Categorías",
+
+    "clear all" : "Limpiar todo",
+    "bookmark is empty" : "¡Tu marcador está vacío!",
+    "save your favourite contents here" : "Guarda aquí tus recetas favoritas",
+    "added to your bookmark" : "Agregado a su marcador",
+
+    "no categories found": "No se encontraron categorías",
+    "no contents found" : "No se encontraron recetas",
+    "no internet" : "¡Sin conexión a Internet!",
+    "check your internet connection" : "¡Comprueba tu conexión a Internet!",
+    "contents you might love" : "Artículos que te pueden gustar",
+    
+    "comments" : "Comentarios",
+    "view comments" : "Ver comentarios",
+    "write a comment" : "Escribir un comentario", 
+    "no comments found" : "No se encontraron comentarios",
+    "be the first to comment" : "Se el primero en comentar",
+    "login to make comments" : "Inicie sesión para hacer comentarios",
+    "comment success title" : "Comentario enviado con éxito",
+    "comment success description" : "Su comentario ha sido enviado para revisión. Verá su comentario en esta lista después de la revisión.\nGracias",
+    "you can't delete others comment" : "No puedes borrar el comentario de otros",
+    "you can't edit others comment" : "No puedes editar el comentario de otros",
+    "update comment" : "Actualizar comentario",
+
+    "delete" : "Borrar",
+    "update" : "Actualizar",
+
+    "notifications" : "Notificaciones",
+    "notification details" : "Detalles de la notificación",
+    "no notification title": "¡No se encontraron notificaciones!",
+    "no notification description" : "Aún no has recibido ninguna notificación. Asegúrese de haber activado las notificaciones desde la configuración.",
+
+    "settings": "Ajustes",
+    "general settings" : "Configuración general",
+    "social settings" : "Ajustes sociales",
+    "about app" : "Acerca de la aplicación",
+    "get notifications" : "Recibir notificaciones",
+    "rate this app" : "Califica esta aplicación",
+    "licence" : "Licencia",
+    "about us" : "Sobre nosotros",
+    "logout" : "लॉग आउट",
+    "our website" : "Nuestra página web",
+    "facebook page" : "Pagina de Facebook",
+    "youtube channel" : "Canal de Youtube",
+    "Continue" : "जारी रखें",
+    "logout title" : "¿Salir de la aplicación?",
+    "logout description" : "¿Realmente quieres cerrar la sesión de la aplicación? Perderás todos tus datos guardados. ¿Continuar?",
+
+    "language" : "Idioma",
+    "select language" : "Seleccione el idioma",
+
+    "explore" : "Explorar",
+    "videos" : "Videos",
+    "video contents": "Artículos de video",
+    "twitter": "Twitter",
+    "bookmark": "Marcador",
+    "bookmarks": "Marcadores",
+
+    "clear all notification-dialog": "¿Quieres borrar todos los datos de las notificaciones?",
+    "clear all bookmark-dialog": "¿Quieres borrar todos los artículos guardados?",
+
+    "buy now" : "Compra esta aplicación",
+    "buy now subtitle" : "Compre el código fuente completo aquí"
+    
+
+
+
+}

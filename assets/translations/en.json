@@ -1,0 +1,463 @@
+{
+
+    "appName" : "RTO Exam",
+    "aminaboutique": "Aminaboutique",
+    "sign up": "Sign Up",
+    "have an account": "Have an account?",
+
+    "login" : "LOG IN",
+    "resend" : "Resend",
+    "verification" : "Verification",
+    "enter verification code we've sent in" : "Enter verification code we've sent in",
+    "reset Password" : "Reset Password",
+    "change Address": "Change Address",
+    "forget Password": "Forget Password",
+
+    "contact Us" : "Contact Us",
+    "get in Touch" : "Get in Touch",
+    "forgot password" : "Forgot password?",
+    "change language" : "Change Language",
+
+    "search" : "Search",
+    "dark mode" : "Dark Mode",
+    "change Password" : "Change Password",
+    "logging out" : "Logging out",
+    "are you sure" : "Are you sure?",
+    "no" : "No",
+
+    "yes" :  "Yes",
+    "share app" : "Share App",
+    "rate app" :  "Rate App",
+    "disclaimer" : "Disclaimer",
+    "privacy policy" : "Privacy Policy",
+    "terms & conditions" : "Terms & Conditions",
+    "other apps" : "Other Apps",
+
+    "Create Video" : "Create Video",
+    "Video List" : "Video List",
+    "Video Title" : "Video Title",
+    "Video Discription" : "Video Discription",
+    "Video Timming" : "Video Timming",
+
+    "create video category" : "Create Video Category",
+
+    "my Account" : "My Account",
+    "do you want to exit the App" : "Do you want to exit the App",
+
+    "home" : "Home",
+    "shop" : "Shop",
+    "courses" : "Courses",
+    "video" : "Video",
+    "profile" : "Profile",
+
+    "video screen" : "Video Screen",
+    "course screen" : "Course Screen",
+
+    "Q1" : "Welcome back!",
+    "A1" : "Login with your data that you intered during your registration.",
+
+    "Q2" : "Don't have an account? ",
+    "A2" : "Sign up",
+
+    "Q3" : "Let's get started!",
+    "A3" : "Please enter your valid data in order to create an account.",
+
+    "Q4" : "I agree with the",
+    "A4" : "Terms of Service",
+
+    "Q5" : "& privacy policy.",
+    "A5" : "Do you have an account?",
+
+    "Q6" : "  Login",
+    "A6" : "Password recovery",
+
+
+    "Q7" : "Enter you mobie number to recover your password.",
+    "A7" : "Verification code",
+
+    "Q8" : "We have send the code verification to",
+    "A8" : "Resend code after",
+
+    "Q9" : "Confirm",
+    "A9" : "Resend",
+
+    "Q10" : "Name *",
+    "A10" : "Date of bith *",
+
+
+
+
+
+    "Q11" : "Phone number *",
+    "A11" : "Gender *",
+
+    "Q12" : "Email *",
+    "A12" : "Password *",
+
+    "Q13" : "Male",
+    "A13" : "Female",
+
+
+
+    "Q14" : "Address (House No/Street/Area) *",
+    "A14" : "City *",
+
+    "Q15" : "State *",
+    "A15" : "Country Selection *",
+
+    "Q16" : "Pin Code *",
+    "A16" : "Your name",
+
+
+
+    "Q17" : "17. Use of horn prohibited",
+    "A17" : "A. Near Hospital, Courts of Law",
+
+    "Q18" : "18. Rear view mirror is used",
+    "A18" : "A. for watching the traffic approaching from behind",
+
+    "Q19" : "19. Boarding in and alighting from a vehicle while in motion",
+    "A19" : "A. Where parking is not prohibited",
+
+    "Q20" : "20. Parking is permitted",
+    "A20" : "A. Where parking is not prohibited",
+
+    "Q21" : "21. Overtaking is prohibited",
+    "A21" : "A. When the road ahead is not clearly visble",
+
+
+
+
+    "Q22" : "22. The pedestrians shall not cross the road at sharp bends or very near to a stopped vehicle why?",
+    "A22" : "A. Drivers of other vehicles coming at a distance may not see persons crossing the road.",
+
+    "Q23" : "23. While turning to a road to the left of the road in which you are going.you should",
+    "A23" : "A. Shwo the elft turn signal, keep to the left side of the road and turn to the left.",
+
+    "Q24" : "24. While you are driving with the head light in high beam during night a vehicle approaches from opposite direction. you will",
+    "A24" : "A. Dim the head light till the vehicle passes",
+
+
+    "Q25" : "25. The river of a vehicle extends his right arm with the palm downward and moves the arm upward and downward sereral times. You will understand that",
+    "A25" : "A. He is slowing down the vehicle",
+
+    "Q26" : "26. When you see the traffic sign of School, you should",
+    "A26" : "A. Slow down and proceed with caution",
+
+    "Q27" : "27. The Signal while taking U-turn",
+    "A27" : "A. Right turn signal",
+
+
+
+    "Q28" : "28. Before overtaking a vehicle, it shoul be ensured that.",
+    "A28" : "A. the road ahead is clearlyh visible and it is safe to overtake",
+
+    "Q29" : "29. A place where parking is prohibited",
+    "A29" : "A. On foot-path",
+
+    "Q30" : "30. The hand brake is to be used",
+    "A30" : "A. To park a vehicle",
+
+
+
+
+    "Q31" : "31. More than two persons on a two wheeler is",
+    "A31" : "A. Violation of law",
+
+    "Q32" : "32. You want to overtake a vehicle near a hospital. You will",
+    "A32" : "A. Not blow horn",
+
+    "Q33" : "33. Using unregistered vehicle in public place is",
+    "A33" : "A. illegal",
+
+
+
+
+
+
+    "Q34" : "34. If a person in charge of an animal apprehending that the animal may become unmanageable, requst to stop a vehicle.",
+    "A34" : "A. The driver shall stop the vehicle",
+
+    "Q35" : "35. When school buses are stopped for picking up or setting down students",
+    "A35" : "A. proceed slowly and cauiously since there is chance of students studdenly crossing the road",
+
+    "Q36" : "36. When a motor vehicle is involved in an accident, te driver",
+    "A36" : "A. Shall report to the nearest police station within 24 hours",
+
+    "Q37" : "37. When any property of a third party is damaged due to an accident, the driver",
+    "A37" : "A. shall report to the nearest police station within 24 hours",
+
+    "Q38" : "38. When the vehicle behind has begun to overtake our vehicle",
+    "A38" : "A. We shall not overtake another vehicle.",
+
+    "Q39" : "39. When our vehicle is being",
+    "A39" : "A. We shall not increases speed",
+
+
+
+    "Q40" : "40. Parking is prohibited in the following place",
+    "A40" : "A. Entrance of hospital",
+
+    "Q41" : "41. Abandoning vehicle in a public plae causing inconvenience to others or passengers",
+    "A41" : "A. The driving licence is liable to be suspended or cancelled",
+
+    "Q42" : "42. While you are approaching an intersection where the yellow signal light is blinking, you should",
+    "A42" : "A. Slow down the vehicle and proceed only after ensuring that it is safe to do so",
+
+    "Q43" : "43. Where the road is marked with continuous yelllow line the vehicle should",
+    "A43" : "A. Not touch or cross the yellow line",
+
+    "Q44" : "44. While a vehicle entering a main road from a branch road, the driver shall give preference.",
+    "A44" : "A. To all vehicles proceeding along the main road",
+
+    "Q45" : "45. You can overtake a vehicle through the left side if",
+    "A45" : "A. The driver of that vehicleindicates his intention to turn right and proceeds to the center of the road",
+
+
+
+
+
+
+    "Q46" : "46. When the yellow light at an intersection apears on the signal light, the driver of an approaching vehicle should",
+    "A46" : "A. Slow down to stop",
+
+    "Q47" : "47. Minimum distance to be kept from the vehicle going in front",
+    "A47" : "A. safe distance according to speed.",
+
+    "Q48" : "48. The number of passengers permitted to be taken in private vehicle is recorded in the",
+    "A48" : "A. Registration Certificate",
+
+    "Q49" : "49. Overtaking is prohibited when..",
+    "A49" : "A. vehicle is driven on a steep hill.",
+
+    "Q50" : "50. If the road is marked with broken white lines, you",
+    "A50" : "A. can change track if required.",
+
+    "Q51" : "51. Blinking red traffic light means.",
+    "A51" : "A. stop the vehicle and proceed if safe.",
+
+
+
+    "Q52" : "52. What is defensive driving?",
+    "A52" : "A. Driving cautiously anticipating violation of traffic rules and road signs both by drivers and other road users.",
+
+    "Q53" : "53. What is meant by stop line.",
+    "A53" : "A. A line wiht 5 crntimeters width in white or yellow colour at the approach of road junction or pedestrian crossing",
+
+    "Q54" : "54. When a vehicle is involved in an accident causing injury to any person",
+    "A54" : "A. Take all reasonable steps to secure medical attention to the injured and report to the nearest police station within 24 hours",
+
+    "Q55" : "55. When a vehicle approaches an unguarded raliway level crossing, before crossing it, the driver shall",
+    "A55" : "A. Stop the vehicle on the left sideof the road, get down from the vehicle, go to the railway track, and ensure that no train or trolley is coming from either side",
+
+    "Q56" : "56. Druken driving is",
+    "A56" : "A. Prohibited in all motor vehicles.",
+
+    "Q57" : "57. Mobile phones shall not be used",
+    "A57" : "- At read light.\n - When driving at speed of 20 KM/Hr.\n A. None of teh above.",
+
+
+
+
+    "Q58" : "58. Tesing the message from the mobile phone is permitted.",
+    "A58" : "- While overtaking another motor vehicle.\n - When driving at speed of 20 KM/Hr.\n A. None of teh above.",
+
+    "Q59" : "59. The Driver shall carry the following documents, while driving in public place.",
+    "A59" : "A. Registration certificate, Insurance Certificate, Tax Token, Driving Licence",
+
+    "Q60" : "60. All motor vehicles must be covered by",
+    "A60" : "A. Third party Insurnce",
+
+    "Q61" : "61. You hold a learner's licence for motor cycle.",
+    "A61" : "A. You will not carry any other person on the motor cycle ecept for the purose of getting instructions from an instructor. who holds a valid driving licence to drive motor cycle.",
+
+
+    "Q62" : "62. Overtaking is prohibited in the following case",
+    "A62" : "A. Narrow bridge",
+
+    "Q63" : "63. Parking prohibited in the following case.",
+    "A63" : "A. Near traffic light",
+
+
+    "Q64" : "64. On a road designated as one way",
+    "A64" : "A. Should not drive in reverse gear",
+
+    "Q65" : "65. How can you distinguish a transport vehicle",
+    "A65" : "A. By looking at the number plate of the vehicle.",
+
+    "Q66" : "66. Validity of leariners licence",
+    "A66" : "A. 6 Months",
+
+    "Q67" : "67. In a road without footpath, the pedestrians",
+    "A67" : "A. Should walk on the right side of the road",
+
+    "Q68" : "68. When fuel is filled in a vehicle",
+    "A68" : "A. Shall not smoke",
+
+    "Q69" : "69. Mobile phones shall not be used",
+    "A69" : "A. While driving a vehicle",
+
+    "Q70" : "70. Records of a private vehicle are",
+    "A70" : "A. Registration certificate, Insurance Certificate, Ta Tokenn, Driving Licence",
+
+    "Q71" : "71. Vealidity of P.U.C.C. Pollution Under Control Certificate",
+    "A71" : "A. 6 Months",
+
+    "Q72" : "72. Minimum age for getting a icence to drive motor cycle whithout gear",
+    "A72" : "A. 16 Years",
+
+    "Q73" : "73. While turning to the left, the driver of a two wheeler shall",
+    "A73" : "A. Show left turn signal with his right hand",
+
+    "Q74" : "74. The driver of a vehicle shall not take U-turn",
+    "A74" : "A. In a busy road",
+
+    "Q75" : "75. One time ta for a new car is for",
+    "A75" : "A. 15 years",
+
+    "Q76" : "76. Number of persons can be carried in the cabin of a Goods Carriage",
+    "A76" : "A. As Many persons as recorded in the Registration Certificate",
+
+    "Q77" : "77. When your vehicle is being overtaken, you should",
+    "A77" : "A. Not obstruct the other vehicle from over taking",
+
+    "Q78" : "78. Minimum age for obtaining driving licence for transport vehicles",
+    "A78" : "A. 20 years",
+
+    "Q79" : "79. Over speeding",
+    "A79" : "A. is an offence leading to suspension or canccelation of driving licence",
+
+    "Q80" : "80. When a blind person crosses the road holding white cane",
+    "A80" : "A. The driver of a vehicle shall consier the while cane as a traffic sign to stop the vehicle.",
+
+    "Q81" : "81. The driver of the vehicle in front has not given signal for over taking",
+    "A81" : "A. We shall not overtake",
+
+    "Q82" : "82. Parking si prohibited in the following place",
+    "A82" : "A. Blocing a fire hyddrant",
+
+    "Q83" : "83. To carry pillion ridder on a motor cycle",
+    "A83" : "A. The vehicle shall be provided with foot rest. hand grip an sari guard",
+
+    "Q84" : "84. Smoking while riving public service vehicle",
+    "A84" : "A. Can attract suspension of driving licence",
+
+    "Q85" : "85. Abandoning a transport vehicle as a mark of protest or agitation or any kind of strike, in a public place or in any other place causing obstruction or inconvenience to the public or passengers or other users of such places",
+    "A85" : "A. The driving licence is liable to be suspended or cancelled",
+
+    "Q86" : "86. Carrying overload in goods carriages",
+    "A86" : "A. Can attract suspension or cancellation of driving licence",
+
+    "Q87" : "87. The driver of a tai refusing the offer for joureny for the reason that the distance is short",
+    "A87" : "A. Can attract suspension/cancellation of driving licence",
+
+    "Q88" : "88. When you reach an intersection where there is no signal light or police man, you will",
+    "A88" : "A. Give way to the traffic approaching the intersection on your right side and proceed after giving necessary signals",
+
+    "Q89" : "89. While you are driving on gradient roads, you should",
+    "A89" : "A. Give percedence to the vehicles going up the hill",
+
+    "Q90" : "90. The driver of a tractor shall not carry",
+    "A90" : "A. Any person other than the driver",
+
+    "Q91" : "91. What is 'Tail-gating'?",
+    "A91" : "A. Driving too close behin a vehicle in a dangerous manner.",
+
+    "Q92" : "92. A vehicle can be seized by authorised officers, if?",
+    "A92" : "A. The vehicle is not convered by a valid registration or permit.",
+
+
+    "Q93" : "93. Type of horn permitted",
+    "A93" : "A. Electric horn",
+
+    "Q94" : "94. Road on which driving in reverse gear is prohibited",
+    "A94" : "A. One-way road",
+
+    "Q95" : "95. if drunken driving is detected, the driver is liable to be punished with",
+    "A95" : "A. imprisonment which may etent to 6 months or Rs.2000/- as fine or both",
+
+    "Q96" : "96. Maximum permitted speed of a motor car on national high way in the state.",
+    "A96" : "A. 70 km/hour",
+
+    "Q97" : "97. Before starting the engine of a vehicle",
+    "A97" : "A. Check radiator water level and engine oil level",
+
+    "Q98" : "98. Maimum permissible speed of a motor cycle",
+    "A98" : "A. 50 km/hour",
+
+    "Q99" : "99. The only vehicle which is ermitted to be driven at a speed exceeding 60 km/hr",
+    "A99" : "A. Motor Car",
+
+    "Q100" : "100. Maximum permissibl speed of a motor car near educational institution",
+    "A100" : "A. 25 km/hour",
+
+
+
+    "clear all" : "Clear all",
+    "bookmark is empty" : "Your Bookmark is empty !!",
+    "save your favourite contents here" : "Save your favourite news here",
+    "added to your bookamrk" : "Added to your bookmark",
+
+    "no categories found": "No categories found",
+    "no contents found" : "No artiles found",
+    "no internet" : "No internet connection!",
+    "check your internet connection!" : "Check your internet connection!",
+    "contents you might love" : "Articles you might love",
+    
+    "comments" : "Comments",
+    "view comments" : "View Comments",
+    "write a comment" : "Write A Comment", 
+    "no comments found" : "No comments found",
+    "be the first to comment" : "Be the first to comment",
+    "login to make comments" : "Login to make comments",
+    "comment success title" : "Comment submitted successfully",
+    "comment success description" : "Your comment has been submitted for the review. You will see your comment in this list after the review.\nThanks",
+    "you can't delete others comment" : "You can't delete others comment",
+    "you can't edit others comment" : "You can't edit others comment",
+    "update comment" : "Update Comment",
+
+    "delete" : "Delete",
+    "update" : "Update",
+
+    "notifications" : "Notifications",
+    "notification details" : "Notification Details",
+    "no notification title": "No notifications found!",
+    "no notification description" : "You haven't received any notifications yet. Make sure you have turned on the notifications from the settings.",
+
+    "settings": "Settings",
+    "general settings" : "General Settings",
+    "social settings" : "Social Settings",
+    "about app" : "About App",
+    "get notifications" : "Get Notifications",
+    "rate this app" : "Rate this app",
+    "licence" : "Licence",
+    "about us" : "About Us",
+    "logout" : "Logout",
+    "our website" : "Our Website",
+    "facebook page" : "Facebook Page",
+    "youtube channel" : "Youtube Channel",
+
+    "logout title" : "Logout from the app?",
+    "logout description" : "Do you really want to logout from the app? You will lose all of your saved data. Continue?",
+
+    "Continue" : "Continue",
+    "language" : "Language",
+    "select language" : "Select Language",
+
+    "explore" : "Explore",
+    "videos" : "Videos",
+    "video contents": "Video Articles",
+    "twitter": "Twitter",
+    "bookmark": "Bookmark",
+    "bookmarks": "Bookmarks",
+
+    "clear all notification-dialog": "Do you want to clear all the notification data?",
+    "clear all bookmark-dialog": "Do you want to clear all the saved articles?",
+
+    "buy now" : "Purchase this app",
+    "buy now subtitle" : "Buy the full source code here"
+    
+
+
+
+}
