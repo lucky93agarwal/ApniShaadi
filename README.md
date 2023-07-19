@@ -68,6 +68,17 @@ Now, it’s time for you to download our app and create your free matrimony prof
 
 
 # Screen shot
+
+![WhatsApp Image 2023-07-19 at 15 07 21](https://github.com/lucky93agarwal/ApniShaadi/assets/53622073/581e3521-93fe-41aa-93ae-2661c0ca918c)
+
+![WhatsApp Image 2023-07-19 at 15 07 41](https://github.com/lucky93agarwal/ApniShaadi/assets/53622073/08c730f3-6248-45d9-992d-34075d1b88ab)
+
+![WhatsApp Image 2023-07-19 at 15 07 56](https://github.com/lucky93agarwal/ApniShaadi/assets/53622073/bbdcb80f-21b9-4870-b965-bf91543cfc01)
+
+![WhatsApp Image 2023-07-19 at 15 08 12](https://github.com/lucky93agarwal/ApniShaadi/assets/53622073/339831f5-cd44-40ce-9852-5dd90919ff0e)
+
+![WhatsApp Image 2023-07-19 at 15 08 43](https://github.com/lucky93agarwal/ApniShaadi/assets/53622073/e9c96410-777b-450a-a90d-c3b5de61e592)
+
 ![WhatsApp Image 2023-06-27 at 13 58 59 (1)](https://github.com/lucky93agarwal/ApniShaadi/assets/53622073/25755a28-13d2-410c-a52a-bf883372719c)
 
 ![WhatsApp Image 2023-06-27 at 13 59 32 (1)](https://github.com/lucky93agarwal/ApniShaadi/assets/53622073/bfab7da2-1aee-4da3-ab73-6bb91beb378e)
