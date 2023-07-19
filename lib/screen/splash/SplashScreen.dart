@@ -23,18 +23,16 @@ class _SplashScreenState extends State<SplashScreen> {
     // TODO: implement initState
     super.initState();
   }
-  late SplashBloc profileBloc;
-
-  @override
-  void didChangeDependencies() {
-    profileBloc = BlocProvider.of<SplashBloc>(context);
-    super.didChangeDependencies();
-  }
+  // late SplashBloc profileBloc;
+  //
+  // @override
+  // void didChangeDependencies() {
+  //   profileBloc = BlocProvider.of<SplashBloc>(context);
+  //   super.didChangeDependencies();
+  // }
   @override
   Widget build(BuildContext context) {
     context.read<SplashBloc>().add(CheckTimingEvent());
-
-    Size size = MediaQuery.of(context).size;
     return Scaffold(
       body: BlocConsumer<SplashBloc, SplashState>(
         builder: (context, s) {

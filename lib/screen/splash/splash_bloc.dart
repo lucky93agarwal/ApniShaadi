@@ -22,12 +22,12 @@ class SplashBloc extends Bloc<SplashEvent, SplashState> {
     return super.close();
   }
 
-  @override
-  void onChange(Change<SplashState> change) {
-    //
-    super.onChange(change);
-    if (kDebugMode) {
-      print("change 786 = " + change.currentState.toString());
-    }
-  }
+  // @override
+  // void onChange(Change<SplashState> change) {
+  //   //
+  //   super.onChange(change);
+  //   if (kDebugMode) {
+  //     print("change 786 = " + change.currentState.toString());
+  //   }
+  // }
 }

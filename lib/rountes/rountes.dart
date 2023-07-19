@@ -4,6 +4,7 @@ import 'package:apnishaadi/screen/ProfileImageZoom/profileImageZoom.dart';
 import 'package:apnishaadi/screen/ProfileImageZoom/profile_image_bloc.dart';
 import 'package:apnishaadi/screen/home/HomeScreen.dart';
 import 'package:apnishaadi/screen/login/LoginScreen.dart';
+import 'package:apnishaadi/screen/login/login_bloc.dart';
 import 'package:apnishaadi/screen/profileList/ProfileList.dart';
 import 'package:apnishaadi/screen/splash/SplashScreen.dart';
 import 'package:apnishaadi/screen/splash/splash_bloc.dart';
@@ -18,7 +19,7 @@ class Routes {
       case "/splash": return MaterialPageRoute(builder: (context) =>BlocProvider(create:(context)=> SplashBloc(),child:const SplashScreen( title: "title",),));
       case "/home": return MaterialPageRoute(builder: (context) => const HomeScreen());
 
-      case "/login": return MaterialPageRoute(builder: (context) => const LoginScreen());
+      case "/login": return MaterialPageRoute(builder: (context) => BlocProvider(create: (context)=> LoginBloc(),child: const LoginScreen(),));
 
       case "/otherProfile": ShaadiItem arguments = settings.arguments as ShaadiItem;
       return MaterialPageRoute(builder: (context) => OptherProfileScreen(item: arguments,));

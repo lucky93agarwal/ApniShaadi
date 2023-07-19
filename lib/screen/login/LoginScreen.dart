@@ -19,16 +19,15 @@ class _LoginScreenState extends State<LoginScreen> {
     // TODO: implement initState
     super.initState();
 
-    PostRepository postRepository = PostRepository();
-    postRepository.fetchPosts();
+    // PostRepository postRepository = PostRepository();
+    // postRepository.fetchPosts();
   }
   @override
   Widget build(BuildContext context) {
-    Size size = MediaQuery.of(context).size;
+
     return Scaffold(
+
       body: SizedBox(
-        width: size.width,
-        height: size.height,
         child: ListView(
           children: [
             const SizedBox(
@@ -89,12 +88,11 @@ class _LoginScreenState extends State<LoginScreen> {
               ),
             ),
             SizedBox(
-              width: size.width,
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
                   Container(
-                    width: size.width * 0.45,
+                    width: 150,
                     height: 1,
                     color: const Color(0xffcecece),
                   ),
@@ -103,7 +101,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     style: TextStyle(color: Color(0xffa8a8a8)),
                   ),
                   Container(
-                    width: size.width * 0.45,
+                    width: 150,
                     height: 1,
                     color: const Color(0xffcecece),
                   ),
@@ -113,6 +111,7 @@ class _LoginScreenState extends State<LoginScreen> {
             const SizedBox(
               height: 20,
             ),
+
             Container(
               margin: const EdgeInsets.symmetric(horizontal: 30, vertical: 10),
               color: Colors.white,

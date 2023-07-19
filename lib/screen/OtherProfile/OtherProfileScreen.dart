@@ -210,22 +210,27 @@ class _OptherProfileScreenState extends State<OptherProfileScreen> {
                               color: Color(0x70000000),
                               borderRadius:
                                   BorderRadius.all(Radius.circular(30))),
-                          child: Row(
-                            children:  [
-                              const Icon(
-                                Icons.camera_alt,
-                                color: Colors.white,
-                                size: 15,
-                              ),
-                              const  SizedBox(
-                                width: 5,
-                              ),
-                              Text(
-                                widget.item.profileImg.length.toString(),
-                                style:const TextStyle(
-                                    color: Colors.white, fontFamily: "Raleway"),
-                              )
-                            ],
+                          child: InkWell(
+                            onTap: (){
+                              nextNameScreen(context, "/profileImageZoom", widget.item.profileImg);
+                            },
+                            child: Row(
+                              children:  [
+                                const Icon(
+                                  Icons.camera_alt,
+                                  color: Colors.white,
+                                  size: 15,
+                                ),
+                                const  SizedBox(
+                                  width: 5,
+                                ),
+                                Text(
+                                  widget.item.profileImg.length.toString(),
+                                  style:const TextStyle(
+                                      color: Colors.white, fontFamily: "Raleway"),
+                                )
+                              ],
+                            ),
                           )),
                     ],
                   ),
