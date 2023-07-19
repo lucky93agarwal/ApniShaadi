@@ -1,4 +1,9 @@
 # ApniShaddi
+Welcome to ApniShaadi.com - India’s most trusted matrimony app now comes with the new feature - Apni Shaadi Live.
+
+Apni Shaadi Live is a revolutionary matchmaking service that allows members to meet up to 10 matches in 1 hour over video calls.
+
+ApniShaadi.com is one of the most trusted matrimony services in India and it was founded with a simple objective - to help people find happiness....
 
 
 # Screen shot
