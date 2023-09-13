@@ -1,4 +1,18 @@
 # ApniShaddi
+
+## Screen shot
+
+<img src="https://github.com/lucky93agarwal/ApniShaadi/assets/53622073/581e3521-93fe-41aa-93ae-2661c0ca918c" width="200"/>
+<img src="https://github.com/lucky93agarwal/ApniShaadi/assets/53622073/08c730f3-6248-45d9-992d-34075d1b88ab" width="200"/>
+<img src="https://github.com/lucky93agarwal/ApniShaadi/assets/53622073/bbdcb80f-21b9-4870-b965-bf91543cfc01" width="200"/>
+<img src="https://github.com/lucky93agarwal/ApniShaadi/assets/53622073/339831f5-cd44-40ce-9852-5dd90919ff0e" width="200"/>
+<img src="https://github.com/lucky93agarwal/ApniShaadi/assets/53622073/e9c96410-777b-450a-a90d-c3b5de61e592" width="200"/>
+<img src="https://github.com/lucky93agarwal/ApniShaadi/assets/53622073/25755a28-13d2-410c-a52a-bf883372719c" width="200"/>
+<img src="https://github.com/lucky93agarwal/ApniShaadi/assets/53622073/bfab7da2-1aee-4da3-ab73-6bb91beb378e" width="200"/>
+<img src="https://github.com/lucky93agarwal/ApniShaadi/assets/53622073/2e662e04-19e3-485a-a5fd-5b03cd22f7e2" width="200"/>
+<img src="https://github.com/lucky93agarwal/ApniShaadi/assets/53622073/be56d7d0-537d-4639-bb0f-74ff84183648" width="200"/>
+
+## About
 Welcome to ApniShaadi.com - India’s most trusted matrimony app now comes with the new feature - Apni Shaadi Live.
 
 Apni Shaadi Live is a revolutionary matchmaking service that allows members to meet up to 10 matches in 1 hour over video calls.
@@ -67,17 +81,7 @@ We have also created apps like PatelShaadi, KammaShaadi etc to facilitate commun
 Now, it’s time for you to download our app and create your free matrimony profile.
 
 
-# Screen shot
 
-<img src="https://github.com/lucky93agarwal/ApniShaadi/assets/53622073/581e3521-93fe-41aa-93ae-2661c0ca918c" width="200"/>
-<img src="https://github.com/lucky93agarwal/ApniShaadi/assets/53622073/08c730f3-6248-45d9-992d-34075d1b88ab" width="200"/>
-<img src="https://github.com/lucky93agarwal/ApniShaadi/assets/53622073/bbdcb80f-21b9-4870-b965-bf91543cfc01" width="200"/>
-<img src="https://github.com/lucky93agarwal/ApniShaadi/assets/53622073/339831f5-cd44-40ce-9852-5dd90919ff0e" width="200"/>
-<img src="https://github.com/lucky93agarwal/ApniShaadi/assets/53622073/e9c96410-777b-450a-a90d-c3b5de61e592" width="200"/>
-<img src="https://github.com/lucky93agarwal/ApniShaadi/assets/53622073/25755a28-13d2-410c-a52a-bf883372719c" width="200"/>
-<img src="https://github.com/lucky93agarwal/ApniShaadi/assets/53622073/bfab7da2-1aee-4da3-ab73-6bb91beb378e" width="200"/>
-<img src="https://github.com/lucky93agarwal/ApniShaadi/assets/53622073/2e662e04-19e3-485a-a5fd-5b03cd22f7e2" width="200"/>
-<img src="https://github.com/lucky93agarwal/ApniShaadi/assets/53622073/be56d7d0-537d-4639-bb0f-74ff84183648" width="200"/>
 
 
 
